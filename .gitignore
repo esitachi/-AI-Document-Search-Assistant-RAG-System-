@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual envs
+.venv/
+venv/
+.env
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# Data / generated
+uploaded_docs/
+vector_index.pkl
+
+# Secrets
+.env
